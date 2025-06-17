@@ -1,6 +1,6 @@
 # jupyter project
 
-Coursera Guided Project
+Coursera Guided Project [You can find the project here](https://www.coursera.org/projects/covid-19-detection-x-ray)
 
 Notebook created for the guided project [Detecting COVID-19 with Chest X Ray using PyTorch](https://www.coursera.org/projects/covid-19-detection-x-ray) on Coursera
 
